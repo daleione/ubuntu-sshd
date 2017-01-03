@@ -1,5 +1,5 @@
-FROM       ubuntu:14.04
-MAINTAINER Alauda "https://www.alauda.cn"
+FROM       ubuntu:16.04
+MAINTAINER dalei "dalei.space"
 
 RUN apt-get update
 
